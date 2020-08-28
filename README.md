@@ -1,6 +1,6 @@
 ### Hi there 👋, MbuguaCaleb
 #### Design and Developer
-I'm MbuguaCaleb from Kenya.I really enjoy learning languages and frameworks where i am proficient in Laravel(PHP) and Express(NodeJs) and Flask(Python).I am as well a huge fan of working vanilla javascript which led me into react .
+I'm MbuguaCaleb from Kenya.I really enjoy learning languages and frameworks where i am proficient in Laravel(PHP) and Express(NodeJs) and Flask(Python).I am as well a huge fan of working vanilla javascript which led me into react where i have a good understanding of Compoenets, State and Redux.
 
 Skills: / REACT / JS / HTML / CSS/ FLUTTER / PYTHON/ POSTGRESQL / IOT/ RASPBERRY PI
 
