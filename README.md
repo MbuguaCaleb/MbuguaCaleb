@@ -8,4 +8,3 @@ Skills: / REACT / JS / HTML / CSS/ FLUTTER / PYTHON/ POSTGRESQL / IOT/ RASPBERRY
 - ⚡ Fun fact: I enjoy playing guitar 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mbuguacaleb)](https://github.com/anuraghazra/github-readme-stats)
