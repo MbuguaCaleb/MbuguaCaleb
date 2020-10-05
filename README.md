@@ -5,6 +5,6 @@ I'm MbuguaCaleb from Kenya.I really enjoy learning languages and frameworks wher
 Skills: / REACT / JS / HTML / CSS/ FLUTTER / PYTHON/ POSTGRESQL / IOT/ RASPBERRY PI
 
 - 🌱 I’m currently learning Flutter with Firebase 
-- ⚡ Fun fact: I enjoy playing guitar 
+- ⚡ Fun fact: I am learning TypeScript
 
 
