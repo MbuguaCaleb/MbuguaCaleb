@@ -1,10 +1,14 @@
 
-#### Design and Developer
- I am proficient in Laravel(PHP) and Express(NodeJs) and Flask(Python).I am as well a huge fan of working Vanilla javascript which led me into React where i have a good grasp in the fundamentals including Redux for State Management.
+#### Fullstack software Engineer
 
-Skills: / REACT / JS / HTML / CSS/ FLUTTER / PYTHON/ POSTGRESQL / IOT/ RASPBERRY PI
 
-- 🌱 I’m currently learning Flutter with Firebase 
-- ⚡ Fun fact: I am learning TypeScript
+-    Very proficient in Laravel(PHP)
+-    Proficient in Django/Flask and Node Js as alternative server side Languages.
+-    Very Proficient in Vanilla Js
+-    Proficient in Type script.
+-    Proficient in React Js and Redux.
+-    Fluency in Angular Js/ Intermediate Level
+-    Novice in FLutter.
+
 
 
